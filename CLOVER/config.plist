@@ -16,6 +16,8 @@
 				<true/>
 				<key>AddMCHC</key>
 				<true/>
+				<key>FakeLPC</key>
+				<true/>
 				<key>FixADP1</key>
 				<true/>
 				<key>FixRTC</key>
@@ -284,7 +286,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>-igfxnohdmi dart=0 -cdfon -disablegfxfirmware -lilubetaall -applealcbeta</string>
+		<string>-applealcbeta dart=0 -cdfon -disablegfxfirmware -igfxnohdmi -lilubetaall</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
