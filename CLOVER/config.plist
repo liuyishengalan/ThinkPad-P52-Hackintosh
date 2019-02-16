@@ -29,6 +29,34 @@
 			<array>
 				<dict>
 					<key>Comment</key>
+					<string>Change Method(_Q15,0,N) to XQ15</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1ExNQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFExNQA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Change Method(_Q14,0,N) to XQ14</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X1ExNAA=
+					</data>
+					<key>Replace</key>
+					<data>
+					WFExNAA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
 					<string>change Method(GPRW,2,N) to XPRW</string>
 					<key>Disabled</key>
 					<false/>
@@ -719,24 +747,24 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>XXXXXXXXXXXX</string>
+		<string>C02814802CDJP4F1M</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>06/26/2018</string>
+		<string>09/28/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP152.88Z.0178.B00.1806260902</string>
+		<string>MBP151.88Z.F000.B00.1809280842</string>
 		<key>Board-ID</key>
-		<string>Mac-827FB448E656EC26</string>
+		<string>Mac-937A206F2EE63C01</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>XXXXXXXXXXXXX</string>
+		<string>C02814802CDJP4F1M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -747,6 +775,8 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
+		<key>EfiVersion</key>
+		<string>220.200.252.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -762,9 +792,11 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro15,1</string>
 		<key>SerialNumber</key>
-		<string>C02XX019KGYG</string>
+		<string>C02WJ09JKGYG</string>
+		<key>SmUUID</key>
+		<string>281a584c-2338-11b2-a85c-8b15be587182</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
@@ -778,6 +810,8 @@
 		<false/>
 		<key>#NvidiaWeb</key>
 		<false/>
+		<key>CustomUUID</key>
+		<string>281a584c-2338-11b2-a85c-8b15be587182</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
