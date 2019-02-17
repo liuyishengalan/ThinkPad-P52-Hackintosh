@@ -32,6 +32,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - Wireless LAN (Broadcom DW1560 or DW1830)
 - Bluetooth (Broadcom DW1560 or DW1830)
 - AirDrop, AirPlay and HandOff
+- Trackpoint
 ## Partially working devices
 - Touchpad can work with one finger gesture by using VoodooPS2 kext
 - in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
