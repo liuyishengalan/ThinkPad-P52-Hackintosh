@@ -4,7 +4,7 @@ Our purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possibl
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
 ## What do you need
-- Lenovo Legion Y7000 Series Notebook
+- Lenovo ThinkPad P52 Series Notebook, It seems that P72 can also work with this clover, not tested
 - Mojave disk image is prepared, nomally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
 - USB storage (at least 8 Gigabyte)
 - Broadcom DW1560 or DW1830 WLAN PCIE card (DW1830 requires modified antenna)
@@ -33,6 +33,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - Bluetooth (Broadcom DW1560 or DW1830)
 - AirDrop, AirPlay and HandOff
 - Trackpoint
+- 4K display (Use 4K version config)
 ## Partially working devices
 - Touchpad can work with one finger gesture by using VoodooPS2 kext
 - in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
