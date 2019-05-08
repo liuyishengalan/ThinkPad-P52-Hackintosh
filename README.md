@@ -4,7 +4,7 @@ My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
 ## Touchpad
-- It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, ![ELANSMBus](https://github.com/gokula/ELANSMBus)
+- It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)
 ## What do you need
 - Lenovo ThinkPad P52 Series Notebook, It seems that P72 can also work with this clover, not tested
 - Mojave disk image is prepared, nomally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
