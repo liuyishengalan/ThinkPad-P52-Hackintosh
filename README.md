@@ -3,11 +3,18 @@ My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
+## Updates (Until 2019/7/24)
+- The new version uses ssdt, aka the hotpatch, and ThunderBolt 3 ports are supported, and eGPU is supported.
+- 128G DDR4 version P52 can boot up
+- Xeon E2176m version P52 can boot up
+- Core i7-8759H, i7-8850H, i9-8959HK are supported
+- We are close to the perfect.
+
 ## Touchpad
 - It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)
 ## What do you need
 - Lenovo ThinkPad P52 Series Notebook, It seems that P72 can also work with this clover, not tested
-- Mojave disk image is prepared, nomally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
+- Mojave disk image is prepared, normally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
 - USB storage (at least 8 Gigabyte)
 - Broadcom DW1560 or DW1830 WLAN PCIE card (DW1830 requires modified antenna)
 
@@ -36,18 +43,22 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - AirDrop, AirPlay and HandOff
 - Trackpoint
 - 4K display (Use 4K version config)
+- Thunderbolt works properly, even connecting to eGPU using graphics dock.
 ## Partially working devices
 - Touchpad can work with one finger gesture by using VoodooPS2 kext
 - in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
 
 ## Disabled devices
-- HDMI, HDMI port is connected with disabled NVIDIA DGPU
+- HDMI, HDMI port is connected with disabled NVIDIA DGPU (Use ThunderBolt eGPU to connect the external monitor, we recommand you using AMD RX series or Vega series)
 
 ## System Screen Shot
 ### System Info
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/System%20Info.png)
 ### Displays
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Displays.png)
+### eGPU connected via ThunderBolt3 graphics card dock
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU1.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU2.png)
 ### Power menu
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Power%20menu.png)
 ### USB ports
