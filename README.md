@@ -8,7 +8,10 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - 128G DDR4 version P52 can boot up
 - Xeon E2176m version P52 can boot up
 - Core i7-8759H, i7-8850H, i9-8959HK are supported
-- We are close to the perfect.
+- We are close to the perfect
+- Brightness control hotkey works properly
+- IR camera is disabled
+- Touch Screen works
 
 ## Touchpad
 - It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)
