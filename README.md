@@ -7,11 +7,11 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - The new version uses ssdt, aka the hotpatch, and ThunderBolt 3 ports are supported, and eGPU is supported.
 - 128G DDR4 version P52 can boot up
 - Xeon E2176m version P52 can boot up
-- Core i7-8759H, i7-8850H, i9-8959HK are supported
+- Core i7-8750H, i7-8850H, i9-8959HK, Xeon E2176m are supported
 - We are close to the perfect
 - Brightness control hotkey works properly
-- IR camera is disabled
-- Touch Screen works
+- IR camera is disabled to avoid the default camera switched to IR camera
+- Touch Screen & Stylus works
 
 ## Touchpad
 - It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)
@@ -21,10 +21,11 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - USB storage (at least 8 Gigabyte)
 - Broadcom DW1560 or DW1830 WLAN PCIE card (DW1830 requires modified antenna)
 
-## BIOS Configration
+## BIOS Configuration
 - Boot mode: UEFI
-- security boot should be disabled
-- Storage mode: AHCI
+- Display mode: Hubrid Graphics
+- security boot- disabled
+- Storage mode: AHCI (If you are in RST mode, you need to switch it to AHCI mode)
 
 ## Full Compatibility
 - Boot clover with UEFI mode
@@ -41,8 +42,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - Mac App Store works normally
 - CPU SpeedStep
 - Sleep + Wake
-- Wireless LAN (Broadcom DW1560 or DW1830)
-- Bluetooth (Broadcom DW1560 or DW1830)
+- Wireless LAN [Broadcom DW1560(OEM by Dell), DW1830(OEM by Dell), BCM94352Z(OEM by Lenovo), BCM943602BAED(OEM by Lenovo), BCM94360CS2(OEM by Apple), BCM943602CS(OEM by Apple)]
+- Bluetooth
 - AirDrop, AirPlay and HandOff
 - Trackpoint
 - 4K display (Use 4K version config)
@@ -52,7 +53,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
 
 ## Disabled devices
-- HDMI, HDMI port is connected with disabled NVIDIA DGPU (Use ThunderBolt eGPU to connect the external monitor, we recommand you using AMD RX series or Vega series)
+- HDMI, HDMI port is connected with disabled NVIDIA DGPU (Use ThunderBolt eGPU to connect the external monitor, we recommand you using AMD Radeon RX series or Vega series)
+- LTE WWAN card (L850GL)
 
 ## System Screen Shot
 ### System Info
