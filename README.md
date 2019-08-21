@@ -23,7 +23,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 
 ## Touchpad
 - Solved with VoodooSMBus, and 5 finger could be detected
-- ～～It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)～～
+- ~~It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)~~
 ## What do you need
 - Lenovo ThinkPad P52 Series Notebook, It seems that P72 can also work with this clover, not tested
 - Mojave disk image is prepared, normally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
