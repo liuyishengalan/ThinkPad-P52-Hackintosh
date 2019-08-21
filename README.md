@@ -1,3 +1,5 @@
+[![BIOS](https://img.shields.io/badge/BIOS-1.28-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
+[![macOS](https://img.shields.io/badge/macOS-10.15.0-orange.svg)]
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
 My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
@@ -20,7 +22,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - Touch Screen & Stylus works
 
 ## Touchpad
-- It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)
+- Solved with VoodooSMBus, and 5 finger could be detected
+- ～～It seems that the full gesture will be enabled, I haven't tested it yet. If anyone has interest in it, try the kext, patches and instructions mentioned in the following link, [ELANSMBus](https://github.com/gokula/ELANSMBus)～～
 ## What do you need
 - Lenovo ThinkPad P52 Series Notebook, It seems that P72 can also work with this clover, not tested
 - Mojave disk image is prepared, normally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
