@@ -3,6 +3,12 @@ My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
+## Updates (Until 2019/8/21)
+- 10.15 beta 6 is supported
+- Touchpad is supported, 5 finger-touch is detected
+- Fans Speed could be detected
+- Thunderbolt 3 was improved
+
 ## Updates (Until 2019/7/24)
 - The new version uses ssdt, aka the hotpatch, and ThunderBolt 3 ports are supported, and eGPU is supported.
 - 128G DDR4 version P52 can boot up
