@@ -1,5 +1,5 @@
 [![BIOS](https://img.shields.io/badge/BIOS-1.28-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
-![macOS](https://img.shields.io/badge/macOS-10.15.0-orange.svg)
+![macOS](https://img.shields.io/badge/macOS-10.15-beta6-orange.svg)
 ![Clover](https://img.shields.io/badge/Clover-r5045-yellowgreen.svg)
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
 My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
