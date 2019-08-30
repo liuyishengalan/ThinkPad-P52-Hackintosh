@@ -4,7 +4,7 @@
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
 My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
-Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
+Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering about the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
 ## Updates (Until 2019/8/21)
 - 10.15 beta 6 is supported
