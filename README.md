@@ -2,7 +2,7 @@
 ![macOS](https://img.shields.io/badge/macOS-10.15.0-orange.svg)
 ![Clover](https://img.shields.io/badge/Clover-r5045-yellowgreen.svg)
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
-My purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
+Purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
@@ -54,6 +54,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - Mac App Store works normally
 - CPU SpeedStep
 - Sleep + Wake
+- Multitouch Touchpanel
 - Wireless LAN [Broadcom DW1560(OEM by Dell), DW1830(OEM by Dell), BCM94352Z(OEM by Lenovo), BCM943602BAED(OEM by Lenovo), BCM94360CS2(OEM by Apple), BCM943602CS(OEM by Apple)]
 - Bluetooth
 - AirDrop, AirPlay and HandOff
@@ -61,8 +62,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - 4K display (Use 4K version config)
 - Thunderbolt works properly, even connecting to eGPU using graphics dock.
 ## Partially working devices
-- Touchpad can work with one finger gesture by using VoodooPS2 kext
-- in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
+- ~~Touchpad can work with one finger gesture by using VoodooPS2 kext
+- ~~in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
 
 ## Disabled devices
 - HDMI, HDMI port is connected with disabled NVIDIA DGPU (Use ThunderBolt eGPU to connect the external monitor, we recommand you using AMD Radeon RX series or Vega series)
