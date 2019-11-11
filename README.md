@@ -6,6 +6,9 @@ Purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering baout the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
+## Updates (Until 2019/11/10)
+- Fully supports macOS 10.15.2 Catalina
+- USB3.1 supported under macOS Catalina
 ## Updates (Until 2019/10/7)
 - Fully supports macOS 10.15 Catalina
 ## Updates (Until 2019/8/21)
