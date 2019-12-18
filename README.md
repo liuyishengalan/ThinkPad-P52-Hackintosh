@@ -1,5 +1,5 @@
 [![BIOS](https://img.shields.io/badge/BIOS-1.31-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
-![macOS](https://img.shields.io/badge/macOS-10.15.2-orange.svg)
+![macOS](https://img.shields.io/badge/macOS-10.15.3-orange.svg)
 ![Clover](https://img.shields.io/badge/Clover-r5100-yellowgreen.svg)
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
 Purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
@@ -8,7 +8,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 
 ## Updates (Until 2019/12/17)
 - Customize the AppleALC, add Layout-ID 52 to the appleALC kext.
-- Update Clover version to 5100
+- Update Clover version to r5100
+- Support Catalina macOS 10.15.3 beta1
 
 ## Updates (Until 2019/11/10)
 - Fully supports macOS 10.15.2 Catalina
