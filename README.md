@@ -38,7 +38,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 ## What do you need
 - Lenovo ThinkPad P52 Series Notebook, It seems that P72 can also work with this clover, not tested
 - Mojave disk image is prepared, normally .dmg file, 10.14 & 10.14.2 & 10 ver.14.3 version has been tested
-- USB storage (at least 8 Gigabyte)
+- USB storage (at least 8 Gigabytes)
 - Broadcom DW1560 or DW1830 WLAN PCIE card (DW1830 requires modified antenna)
 
 ## BIOS Configuration
@@ -50,7 +50,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 ## Full Compatibility
 - Boot clover with UEFI mode
 - Built-in keyboard (partial function key and Num keyboard works well)
-- native USB3 / USB2 ports (USB type-c can work, but two thunderbolts has not been tested)
+- native USB3 / USB2 ports (USB type-c can work, ~~but two thunderbolts has not been tested~~)
 - AppleHDA native audio, Speakers + Internal Mic + Headphone
 - Built in Camera
 - Native power management
@@ -70,8 +70,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - 4K display (Use 4K version config)
 - Thunderbolt works properly, even connecting to eGPU using graphics dock.
 ## Partially working devices
-- ~~Touchpad can work with one finger gesture by using VoodooPS2 kext
-- ~~in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully
+- ~~Touchpad can work with one finger gesture by using VoodooPS2 kext~~
+- ~~in the future touchpad can work with ApplePS2SmartTouchPad kext by patching hopefully~~
 
 ## Disabled devices
 - HDMI, HDMI port is connected with disabled NVIDIA DGPU (Use ThunderBolt eGPU to connect the external monitor, we recommand you using AMD Radeon RX series or Vega series)
