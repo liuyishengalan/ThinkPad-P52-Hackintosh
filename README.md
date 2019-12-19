@@ -87,21 +87,21 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 ### Displays
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Display%20Info.png)
 ### eGPU connected via ThunderBolt3 graphics card dock
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/eGPU1.jpg)
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/eGPU2.jpg)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU1.jpg)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU2.jpg)
 ### Power menu
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Power%20menu.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Power%20menu.png)
 ### USB ports
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/USB%20ports.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/USB%20ports.png)
 ### Graphics
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Graphics.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Graphics.png)
 ### Audio
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Audio.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Audio.png)
 ### Power
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Power.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Power.png)
 ### wifi
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Wifi.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Wifi.png)
 ### Bluetooth
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Bluetooth.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Bluetooth.png)
 
 
