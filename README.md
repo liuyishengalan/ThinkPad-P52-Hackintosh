@@ -7,7 +7,8 @@ Purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering about the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
 ## Releases (Until 2019/12/17)
-- The latest version is v2.7. [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/releases/download/2.7/EFI.zip)
+- The latest version is v2.7.
+- [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/releases/download/2.7/EFI.zip)
 
 ## Updates (Until 2019/12/17)
 - Customize the AppleALC, add Layout-ID 52 to the appleALC kext.
@@ -84,23 +85,23 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 ### System Info
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/System%20Info_10.15.2.png)
 ### Displays
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Display%20Info.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Display%20Info.png)
 ### eGPU connected via ThunderBolt3 graphics card dock
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU1.jpg)
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU2.jpg)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/eGPU1.jpg)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/eGPU2.jpg)
 ### Power menu
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Power%20menu.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Power%20menu.png)
 ### USB ports
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/USB%20ports.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/USB%20ports.png)
 ### Graphics
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Graphics.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Graphics.png)
 ### Audio
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Audio.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Audio.png)
 ### Power
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Power.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Power.png)
 ### wifi
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Wifi.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Wifi.png)
 ### Bluetooth
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Bluetooth.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.X-/blob/master/Screen%20Shot/Bluetooth.png)
 
 
