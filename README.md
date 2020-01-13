@@ -6,11 +6,12 @@ Purpose is to allow ThinkPad P52 to run mac OS mojave as natively as possible
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering about the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
-## Releases (Until 2019/12/17)
-- The latest version is v2.7.
+## Releases (Until 2020/1/14)
+- The latest version is v2.8.
 - [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/releases/download/2.8/EFI.zip)
 
-## Updates (Until 2019/12/17)
+## Updates (Until 2020/1/14)
+- Happy New Years!!
 - Update Clover version to r5103
 
 ## Updates (Until 2019/12/17)
