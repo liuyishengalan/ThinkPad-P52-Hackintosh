@@ -11,7 +11,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/releases/download/2.9/EFI.zip)
 
 ## Updates (Until 2020/1/22)
--  RAM 32GB single slot is supported natively
+- RAM 32GB single slot is supported natively
+- AppleALC is merged in the official version. The CODE has been merged in acidanthera's GitHub
 
 ## Updates (Until 2020/1/14)
 - Happy New Years!!
