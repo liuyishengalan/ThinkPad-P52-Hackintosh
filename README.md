@@ -1,11 +1,14 @@
 [![BIOS](https://img.shields.io/badge/BIOS-1.31-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
-![macOS](https://img.shields.io/badge/macOS-10.15.3-orange.svg)
+![macOS](https://img.shields.io/badge/macOS-10.15.4-orange.svg)
 ![Clover](https://img.shields.io/badge/Clover-r5103-yellowgreen.svg)
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
 Purpose is to allow ThinkPad P52/P53/P72/P73 to run mac OS mojave as natively as possible
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering about the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
 
+## Installing Guides
+- [Chinese Video Guides | Bilibil.com](https://space.bilibili.com/188733433?from=search&seid=782751373682115347)
+- Thanks to 嘚儿覅 for supporting the guides video
 ## Releases (Until 2020/2/12)
 - The latest version is 3.0.
 - [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/releases/download/3.0/EFI.zip)
