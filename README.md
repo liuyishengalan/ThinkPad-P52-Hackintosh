@@ -1,6 +1,6 @@
-[![BIOS](https://img.shields.io/badge/BIOS-1.31-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
+[![BIOS](https://img.shields.io/badge/BIOS-1.33-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
 ![macOS](https://img.shields.io/badge/macOS-11.0-orange.svg)
-![Clover](https://img.shields.io/badge/Clover-r5103-yellowgreen.svg)
+![Clover](https://img.shields.io/badge/OpenCore-0.6.0-yellowgreen.svg)
 ## Introduction (Welcome to QQ (tencent chatting program) group：97986046)
 Purpose is to allow ThinkPad P52/P53/P72/P73 to run mac OS mojave as natively as possible
 
