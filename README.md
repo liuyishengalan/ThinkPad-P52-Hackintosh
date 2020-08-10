@@ -97,11 +97,11 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 
 ## System Screen Shot
 ### System Info
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/blob/master/Screen%20Shot/System%20Info_10.15.2.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/sys.png)
 ### RAM Slots
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/RAM.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/mem.png)
 ### Displays
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/Display%20Info.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/display.png)
 ### eGPU & Thunderbolt3
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU.png)
 ### eGPU connected via ThunderBolt3 graphics card dock
