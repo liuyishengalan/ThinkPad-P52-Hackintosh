@@ -12,7 +12,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - Thanks to 嘚儿覅 for supporting the guides video
 ## Releases (Until 2020/8/8)
 - The latest version is 4.1
-- [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.15.x/releases/download/4.1/EFI.zip)
+- [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/releases/download/4.1/P52.OC.11.0.Beta4.zip)
 
 ## Updates (Until 2020/2/12)
 - Add device support for P53 and P73
