@@ -103,7 +103,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 ### Displays
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/display.png)
 ### eGPU & Thunderbolt3
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh-10.14.X-/blob/master/Screen%20Shot/eGPU.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/tb.jpg)
 ### eGPU connected via ThunderBolt3 graphics card dock
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/tbdockpv.jpg)
 ### Power menu
