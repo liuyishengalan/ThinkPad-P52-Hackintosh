@@ -7,8 +7,8 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 
 ## Installing Guides
 - [Chinese Video Guides | Bilibili.com](https://space.bilibili.com/188733433?from=search&seid=782751373682115347)
-- Sorry for that, no other language supported, you may find general guides on popular forums.
-- Thanks to 嘚儿覅 for supporting the guides video
+- Thanks to z for supporting the guides video
+
 ## Releases (Until 2020/8/8)
 - The latest version is 4.1
 - [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/releases/download/4.1/P52.OC.11.0.Beta4.zip)
