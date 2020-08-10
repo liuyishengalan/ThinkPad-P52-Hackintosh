@@ -115,7 +115,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 ### Audio
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/audio.png)
 ### Power
-![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/power.png)
+![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/batt.png)
 ### wifi
 ![image](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/blob/master/ScreenShots/wifi.png)
 ### Bluetooth
