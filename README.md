@@ -1,7 +1,7 @@
 [![BIOS](https://img.shields.io/badge/BIOS-1.37-brightgreen.svg)](https://pcsupport.lenovo.com/us/en/products/LAPTOPS-AND-NETBOOKS/THINKPAD-P-SERIES-LAPTOPS/THINKPAD-P52-TYPE-20M9-20MA/20M9/downloads/DS504024)
 ![macOS](https://img.shields.io/badge/macOS-11.0%20beta4-orange.svg)
 ![Clover](https://img.shields.io/badge/OpenCore-0.6.0-yellowgreen.svg)
-<img align="right" src="https://i.imgur.com/I3yUS4Q.png" alt="Critter" width="300">
+<img align="right" src="https://www.notebookcheck.net/uploads/tx_nbc2/teaser1_25.jpg" alt="Critter" width="300">
 ## Introduction (QQ Group Chat: 97986046)
 
 Tips: If you want to use built-in network adapter, you'd better buy a new pcie card, and I suggest DW1560 or DW1830, considering about the size and space. Also, P52 does not have whitelist upon WLAN hardware, you even do not need to modify your BIOS
