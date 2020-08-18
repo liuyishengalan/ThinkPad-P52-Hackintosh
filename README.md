@@ -10,9 +10,14 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - [Simplified Chinese Video Guides | Bilibili.com](https://space.bilibili.com/188733433?from=search&seid=782751373682115347)
 - Thanks to z for supporting the guides video
 
-## Releases (Until 2020/8/8)
-- The latest version is 4.1
-- [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/releases/download/4.1/P52.OC.11.0.Beta4.zip)
+## Releases (Until 2020/8/18)
+- The latest version: V4.2
+- [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/releases/download/4.2/EFI-4.2.zip)
+
+## Updates (Until 2020/8/18)
+- Update to OpenCore 0.6.0 official version
+- Support macOS 11.0 beta 5
+- Fix a few minor bugs
 
 ## Updates (Until 2020/2/12)
 - Add device support for P53 and P73
@@ -22,7 +27,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - AppleALC is merged in the official version. The CODE has been merged in acidanthera's GitHub
 
 ## Updates (Until 2020/1/14)
-- Happy New Years!!
+- Happy New Year!!
 - Update Clover version to r5103
 
 ## Updates (Until 2019/12/17)
