@@ -16,7 +16,7 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 
 ## Updates (Until 2020/8/18)
 - Update to OpenCore 0.6.0 official version
-- Support macOS 11.0 beta 5
+- Support macOS 11.0 beta 4
 - Fix a few minor bugs
 
 ## Updates (Until 2020/2/12)
