@@ -12,9 +12,18 @@ Tips: If you want to use built-in network adapter, you'd better buy a new pcie c
 - [Simplified Chinese Video Guides | Bilibili.com](https://space.bilibili.com/188733433?from=search&seid=782751373682115347)
 - Thanks to z for supporting the guides video
 
+## Releases (Until 2021/7/21)
+- Download from repo. Not released to the tag yet, since macOS-12 is still in beta progress.
+
 ## Releases (Until 2020/8/18)
 - The latest version: V4.2
 - [Download Here](https://github.com/liuyishengalan/ThinkPad-P52-Hackintosh/releases/download/4.2/EFI-4.2.zip)
+
+## Updates (Until 2021/7/21)
+- Update to OpenCore 0.7.1 official version
+- Support macOS 12.0 beta
+- Add support for intel wireless NIC.
+- Only tested on the Xeon-E3 & 4k platform.
 
 ## Updates (Until 2020/8/18)
 - Update to OpenCore 0.6.0 official version
